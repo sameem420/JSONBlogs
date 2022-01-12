@@ -1,7 +1,6 @@
-# ReactApp-TVSeries
+# BlogApp
 
-Get details about your favorite TV Series in seconds
+## Blog App in React
 
 
-
-&copy; 2020 Muhammad Sameem
+<h3 align="center">&copy; 2020 Muhammad Sameem</h3>
