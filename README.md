@@ -1,4 +1,4 @@
-# BlogApp
+# JSONBlogs
 
 
 - fetched blogs from JSONplaceholderAPI
